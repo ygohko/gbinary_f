@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+      "@fitbit/sdk": "~6.1.0",
+    "@fitbit/sdk-cli": "^1.7.3"
+  },
+  "fitbit": {
+    "appUUID": "d3c2957d-05ef-4dca-a7ac-14eb3617ecf8",
+    "appType": "clockface",
+    "appDisplayName": "GBinary F",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "GBinary F"
+      },
+      "ja-JP": {
+        "name": "GBinary F"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

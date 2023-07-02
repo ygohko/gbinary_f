@@ -1,0 +1,267 @@
+.background {
+  viewport-fill: #000000;
+}
+
+#header0Label {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+100;
+  y: 50%-126;
+  fill: #EFEFFF;
+  opacity: 0.4;
+}
+
+#header1Label {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+60;
+  y: 50%-126;
+  fill: #EFEFFF;
+  opacity: 0.4;
+}
+
+#header2Label {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+20;
+  y: 50%-126;
+  fill: #EFEFFF;
+  opacity: 0.4;
+}
+
+#header3Label {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-20;
+  y: 50%-126;
+  fill: #EFEFFF;
+  opacity: 0.4;
+}
+
+#header4Label {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-60;
+  y: 50%-126;
+  fill: #EFEFFF;
+  opacity: 0.4;
+}
+
+#header5Label {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-100;
+  y: 50%-126;
+  fill: #EFEFFF;
+  opacity: 0.4;
+}
+
+#hour0Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+100;
+  y: 50%-56;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#hour1Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+60;
+  y: 50%-56;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#hour2Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+20;
+  y: 50%-56;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#hour3Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-20;
+  y: 50%-56;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#hour4Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-60;
+  y: 50%-56;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#minute0Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+100;
+  y: 50%+24;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#minute1Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+60;
+  y: 50%+24;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#minute2Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+20;
+  y: 50%+24;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#minute3Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-20;
+  y: 50%+24;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#minute4Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-60;
+  y: 50%+24;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#minute5Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-100;
+  y: 50%+24;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#second0Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+100;
+  y: 50%+104;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#second1Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+60;
+  y: 50%+104;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#second2Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%+20;
+  y: 50%+104;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#second3Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-20;
+  y: 50%+104;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#second4Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-60;
+  y: 50%+104;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#second5Label {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-100;
+  y: 50%+104;
+  fill: #EFEFFF;
+  opacity: 0.75;
+}
+
+#decimalLabel {
+  font-size: 20;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 100%-2;
+  fill: #EFEFFF;
+  opacity: 0.4;
+}

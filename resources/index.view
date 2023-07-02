@@ -1,0 +1,32 @@
+<svg class="background">
+  <gradientRect x="0" y="0" width="100%" height="100%"
+    gradient-type="radial"
+    gradient-x1="50%" gradient-y1="50%"
+    gradient-x2="100%" gradient-y2="100%"
+    gradient-color1="#00007F"
+    gradient-color2="#00001F" />
+  <text id="header0Label">1</text>
+  <text id="header1Label">2</text>
+  <text id="header2Label">4</text>
+  <text id="header3Label">8</text>
+  <text id="header4Label">16</text>
+  <text id="header5Label">32</text>
+  <text id="hour0Label" />
+  <text id="hour1Label" />
+  <text id="hour2Label" />
+  <text id="hour3Label" />
+  <text id="hour4Label" />
+  <text id="minute0Label" />
+  <text id="minute1Label" />
+  <text id="minute2Label" />
+  <text id="minute3Label" />
+  <text id="minute4Label" />
+  <text id="minute5Label" />
+  <text id="second0Label" />
+  <text id="second1Label" />
+  <text id="second2Label" />
+  <text id="second3Label" />
+  <text id="second4Label" />
+  <text id="second5Label" />
+  <text id="decimalLabel" />
+</svg>
